@@ -174,5 +174,11 @@
       "eslint --fix --cache",
       "git add"
     ]
+  },
+  "overrides": {
+    "node-forge": ">=1.4.0"
+  },
+  "resolutions": {
+    "node-forge": ">=1.4.0"
   }
 }
