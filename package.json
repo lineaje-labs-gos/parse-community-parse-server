@@ -1,11 +1,11 @@
 {
   "name": "parse-server",
-  "version": "9.10.0",
+  "version": "9.10.0-lineaje-01",
   "description": "An express module providing a Parse-compatible API server",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/parse-community/parse-server"
+    "url": "https://github.com/lineaje-labs-gos/parse-community-parse-server"
   },
   "files": [
     "bin/",
@@ -19,6 +19,12 @@
     "types"
   ],
   "license": "Apache-2.0",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "dependencies": {
     "@apollo/server": "5.5.0",
     "@as-integrations/express5": "1.1.2",
